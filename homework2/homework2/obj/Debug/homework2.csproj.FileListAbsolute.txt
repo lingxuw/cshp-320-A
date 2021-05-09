@@ -1,0 +1,7 @@
+D:\VS Workspace\cshp-320-A\homework2\homework2\bin\Debug\homework2.exe.config
+D:\VS Workspace\cshp-320-A\homework2\homework2\bin\Debug\homework2.exe
+D:\VS Workspace\cshp-320-A\homework2\homework2\bin\Debug\homework2.pdb
+D:\VS Workspace\cshp-320-A\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+D:\VS Workspace\cshp-320-A\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+D:\VS Workspace\cshp-320-A\homework2\homework2\obj\Debug\homework2.exe
+D:\VS Workspace\cshp-320-A\homework2\homework2\obj\Debug\homework2.pdb
