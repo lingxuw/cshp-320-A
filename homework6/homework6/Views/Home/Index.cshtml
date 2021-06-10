@@ -1,0 +1,70 @@
+﻿@model homework6.Models.BirthdayCard
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
+    <style>
+        .btn a {
+            color: white;
+            text-decoration: none;
+        }
+
+        body {
+            background-color: #f1f1f1;
+        }
+
+        .top-bar {
+            background-color: #000000;
+            color: #808080;
+            padding: 10px;
+        }
+
+        .card-title {
+            padding: 10px;
+        }
+
+        .row {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h4 class="top-bar">Birthday Card Generator</h4>
+    <h1 class="card-title">Send a Birthday Card</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Index">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="From" class="control-label">From: </label>
+                    <input asp-for="From" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="To" class="control-label">To: </label>
+                    <input asp-for="To" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Message" class="control-label">Message: </label>
+                    <input asp-for="Message" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <input class="btn btn-success" type="submit" value="Send" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <hr />
+    <footer class="card-footer">My ASP.NET Application</footer>
+</body>
+</html>

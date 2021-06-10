@@ -1,0 +1,55 @@
+﻿@model homework6.Models.BirthdayCard
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
+    <style>
+        .btn a {
+            color: white;
+            text-decoration: none;
+        }
+
+        body {
+            background-color: #f1f1f1;
+        }
+
+        .top-bar {
+            background-color: #000000;
+            color: #808080;
+            padding: 10px;
+        }
+
+        .card-title {
+            padding: 10px;
+        }
+
+        .row {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h4 class="top-bar">Birthday Card Generator</h4>
+    <h1 class="card-title">Birthday Card Sent</h1>
+    <div class="row">
+        <div class="col-md-3">
+            <div>
+                <Text>From: @Model.From</Text>
+            </div>
+            <div>
+                <Text>To: @Model.To</Text>
+            </div>
+            <div>
+                <Text>Message: @Model.Message</Text>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <footer class="card-footer">My ASP.NET Application</footer>
+</body>
