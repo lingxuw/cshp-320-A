@@ -1,0 +1,15 @@
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.csprojAssemblyReference.cache
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.AssemblyInfoInputs.cache
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.AssemblyInfo.cs
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.csproj.CoreCompileInputs.cache
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleRepository.deps.json
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleRepository.runtimeconfig.json
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleRepository.runtimeconfig.dev.json
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleRepository.dll
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleRepository.pdb
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleDB.dll
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\bin\Debug\netcoreapp3.1\VehicleDB.pdb
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.csproj.CopyComplete
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.dll
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.pdb
+D:\VS Workspace\cshp-320-A\VehicleTracker\VehicleRepository\obj\Debug\netcoreapp3.1\VehicleRepository.genruntimeconfig.cache
